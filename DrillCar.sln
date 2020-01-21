@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrillCar", "DrillCar.csproj", "{A8660EDC-89D8-4431-95B5-C9E1AF5D2AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8660EDC-89D8-4431-95B5-C9E1AF5D2AD1}.Debug|x64.ActiveCfg = Debug|x64
+		{A8660EDC-89D8-4431-95B5-C9E1AF5D2AD1}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10FA14A-BD94-4514-9ADA-B239EAC5D1EB}
+	EndGlobalSection
+EndGlobal
